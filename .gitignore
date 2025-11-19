@@ -1,0 +1,17 @@
+# Visual Studio / C# standard ignores
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+## User-specific files
+*.user
+*.suo
+
+## Executables and related files
+*.exe
+*.dll
+*.pdb
+*.obj
